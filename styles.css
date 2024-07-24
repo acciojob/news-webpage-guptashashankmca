@@ -25,10 +25,12 @@ body{
 	text-align:center;
 	width:30%;
 }
-.Pictorial-News{
+.pictorial-news-section{
 	background-color:white;
 	border-radius:20px;
 }
 .main{
 	text-align:center;
+	justify-items:normal;
+	
 }
